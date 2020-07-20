@@ -1,0 +1,7 @@
+.alert-error{
+    color:red;
+    width:90%;
+    margin:1% 5% 1% 5%;
+    padding: 30px 0 30px 0;
+    background: pink;
+}
