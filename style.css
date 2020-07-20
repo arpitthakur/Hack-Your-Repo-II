@@ -39,3 +39,8 @@ main{
     flex:1;
     margin-right:5px;
 }
+.table{
+    box-shadow: -2px 2px 5px 5px rgba(128, 128, 128, 0.247);
+    width:100%;
+    vertical-align:top;
+}
