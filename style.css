@@ -47,3 +47,7 @@ main{
 .keys{
     width:20%;
 }
+.contributor-container{
+    box-shadow:-2px 2px 5px 5px rgba(128, 128, 128, 0.247);
+    flex:1;
+}
