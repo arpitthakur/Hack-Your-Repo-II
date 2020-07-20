@@ -10,3 +10,8 @@
     padding:0;
     text-decoration:none;
 }
+body{
+    background:white;
+    font-size:20px;
+    line-height:2;
+}
